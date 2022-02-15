@@ -1,1 +1,5 @@
 /* BASIC STYLES HERE */
+#snacks img {
+  height: 30vh;
+  width: 30vh;
+}
